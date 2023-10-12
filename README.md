@@ -20,7 +20,7 @@ their tickets.
 ### UML DIAGRAMS:
 
 ### Use Case Diagram:
-![image](https://github.com/DEVADARSHAN2/Lab-3-Railway-Reservation/assets/119432150/28295bff-e385-4fb5-be16-0351a2c0d611)
+![image](https://github.com/DEVADARSHAN2/Lab-3-Railway-Reservation/assets/119432150/00a6ab2c-0a6c-4252-bbfb-ed1b9ee31d41)
 
 ### Class Diagram:
 ![image](https://github.com/DEVADARSHAN2/Lab-3-Railway-Reservation/assets/119432150/17124b48-52f3-48a4-aad5-443a8f29c8e0)
